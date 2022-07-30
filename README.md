@@ -7,13 +7,17 @@ Soy Jesús Gonzales, Frontend developer y bachiller en Ingeniería Informática
 - 🌱 Me gusta construir sitios webs y aplicaciones modernas que sean amigables e intuitivas para el usuario, desarrolladas con HTML5, CSS3, JAVASCRIPT, y REACTJS. Enfocado en los detalles visuales, con gran destreza en CSS y familiarizado con diferentes frameworks como Bootstrap y Tailwind.
 - 💬 [Sitio Web](https://myportfolio-gmanriqe.vercel.app/)
 
-### 🛠 Tecnolgías
+### 🛠 Tecnolgías y Herramientas
 
 - HTML5
 - CSS3
 - JAVASCRIPT
 - REACTJS
 - NODEJS
+- GIT & GITHUB
+- ADOBE XD / FIGMA
+- POSTMAN
+- TRELLO 
 
 <hr>
 
